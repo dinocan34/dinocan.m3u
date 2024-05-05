@@ -1,0 +1,21 @@
+#Extm3u
+#Extınf-1 TRT 1
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+#Extınf-1 KANAL D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+#Extınf-1 ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#Extınf-1 STAR
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+#Extınf-1 SHOW
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+#Extınf-1 TRT HABER
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+#Extınf-1 NTV HABER
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8
+#Extınf-1 CNN
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
+#Extınf-1 TRT SPOR
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#Extınf-1 ASPOR
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
